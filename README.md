@@ -1,2 +1,2 @@
-# BOJ
-algorithm questions of  https://www.acmicpc.net/ 
+# coding-test
+algorithm questions of  https://www.acmicpc.net/  and https://programmers.co.kr/
