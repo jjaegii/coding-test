@@ -1,3 +1,4 @@
+# 시간 초과때문에 PyPy3로 제출 함
 import sys
 h, w = map(int, sys.stdin.readline().split())
 
