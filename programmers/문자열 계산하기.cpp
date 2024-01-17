@@ -43,9 +43,3 @@ int solution(string my_string) {
     
     return answer;
 }
-
-int main() {
-    string s = "3 + 4";
-    cout << solution(s) << endl;
-    return 0;
-}
